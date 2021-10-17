@@ -23,4 +23,13 @@ security_patch()
 //Sample code for Security Patch in feature1
 }
 
+feaature2()
+{
+  //Sample Code for Feature 2
+}
+security_patch()
+{
+	//Sample code for security patch from feature2
+}
+
 }
