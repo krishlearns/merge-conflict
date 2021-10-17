@@ -9,6 +9,9 @@ feaature2()
 {
   //Sample Code for Feature 2
 }
-
+security_patch()
+{
+	//Sample code for security patch from feature2
+}
 
 }
